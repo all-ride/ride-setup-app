@@ -1,0 +1,16 @@
+{
+    "name": "pallo/setup-app",
+    "description": "Setup the base Pallo framework through the Composer dependency manager.",
+    "version": "0.1.0",
+    "type": "pallo-setup",
+    "authors": [
+        {
+            "name": "Joris Vandeweerd",
+            "email": "joris@statik.be"
+        }
+    ],
+    "require": {
+        "pallo/app": ">=0.3.0",
+        "pallo/setup": ">=0.1.0"
+    }
+}
