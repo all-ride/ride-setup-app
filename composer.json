@@ -1,7 +1,7 @@
 {
     "name": "pallo/setup-app",
     "description": "Setup the base Pallo framework through the Composer dependency manager.",
-    "version": "0.2",
+    "version": "0.2.0",
     "type": "pallo-setup",
     "authors": [
         {
