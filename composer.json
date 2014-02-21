@@ -1,8 +1,8 @@
 {
-    "name": "pallo/setup-app",
-    "description": "Setup the base Pallo framework through the Composer dependency manager.",
+    "name": "ride/setup-app",
+    "description": "Setup the base Ride framework through the Composer dependency manager.",
     "version": "0.2.0",
-    "type": "pallo-setup",
+    "type": "ride-setup",
     "authors": [
         {
             "name": "Joris Vandeweerd",
@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "pallo/app": ">=0.4.0",
-        "pallo/setup": ">=0.1.0"
+        "ride/app": ">=0.4.0",
+        "ride/setup": ">=0.1.0"
     }
 }

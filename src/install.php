@@ -8,8 +8,8 @@ if (!file_exists('application/config')) {
     mkdir('application/config');
 }
 
-if (!file_exists('application/config/parameters.php') && file_exists('vendor/pallo/app/src/parameters.php')) {
-    copy('vendor/pallo/app/src/parameters.php', 'application/config/parameters.php');
+if (!file_exists('application/config/parameters.php') && file_exists('vendor/ride/app/src/parameters.php')) {
+    copy('vendor/ride/app/src/parameters.php', 'application/config/parameters.php');
 }
 
 if (!file_exists('application/data')) {
