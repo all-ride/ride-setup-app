@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "ride/app": ">=0.4.0",
+        "ride/app": ">=0.7.0",
         "ride/setup": ">=0.1.0"
     }
 }
