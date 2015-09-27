@@ -1,7 +1,7 @@
 {
     "name": "ride/setup-app",
     "description": "Setup the base Ride framework through the Composer dependency manager.",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "type": "ride-setup",
     "authors": [
         {
