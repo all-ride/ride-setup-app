@@ -17,7 +17,7 @@ if (!file_exists('application/src')) {
 }
 
 if (!file_exists('application/src/bootstrap.php') && file_exists('vendor/ride/app/src/bootstrap.php')) {
-    copy('vendor/ride/app/src/bootstrap.php', 'application/config/bootstrap.php');
+    copy('vendor/ride/app/src/bootstrap.php', 'application/src/bootstrap.php');
 }
 
 if (!file_exists('application/data')) {
